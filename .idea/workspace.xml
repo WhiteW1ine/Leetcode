@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68392e69-e23d-433d-9190-6e291453ffeb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/3Sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ApplyTransformOverEachElementinArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ArrayPrototypeLast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ArrayReduceTransformation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/CompactObject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/CountingBits.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ExtraCharactersInString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Frog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/HouseRobber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ImplementStackUsingArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/LinkedListCycle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ReverseInteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/Sleep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/SplitLinkedListinParts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/UniquePaths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ValidateBinarySearchTree.js" beforeDir="false" />
-    </list>
+    <list default="true" id="68392e69-e23d-433d-9190-6e291453ffeb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +66,7 @@
       <updated>1728395222235</updated>
       <workItem from="1728395223395" duration="781000" />
       <workItem from="1728396068900" duration="8000" />
+      <workItem from="1728396087617" duration="104000" />
     </task>
     <servers />
   </component>
